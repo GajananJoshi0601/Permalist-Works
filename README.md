@@ -18,7 +18,7 @@
         <pre><code>git clone https://github.com/gajananjoshi0601/Permalist-Works.git</code></pre>
     </li>
     <li>Navigate to the project directory:
-        <pre><code>cd Permalist-Project</code></pre>
+        <pre><code>cd Permalist-Works</code></pre>
     </li>
     <li>Install the necessary dependencies:
         <pre><code>npm install</code></pre>
