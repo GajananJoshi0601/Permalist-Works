@@ -15,7 +15,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/gajananjoshi0601/Permalist-Project.git</code></pre>
+        <pre><code>git clone https://github.com/gajananjoshi0601/Permalist-Works.git</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd Permalist-Project</code></pre>
